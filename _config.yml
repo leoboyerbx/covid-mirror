@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Miroir Covid 19
 description: Ce site héberge une copie des informations du site du Ministère de l'Intérieur, si celui-ci est inaccessible.
+github:
+  pdf_url: https://github.com/leoboyerbx/covid-mirror/raw/master/Attestation_de_deplacement_derogatoire.pdf
