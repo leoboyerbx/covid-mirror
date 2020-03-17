@@ -6,3 +6,9 @@ links:
   - pdf:
     text: Télécharger l'attestation de déplacement dérogatoire
     url: https://github.com/leoboyerbx/covid-mirror/raw/master/Attestation_de_deplacement_derogatoire.pdf
+  - source:
+    text: Voir les infos sur le site officiel du ministère
+    url: https://www.interieur.gouv.fr/Actualites/L-actu-du-Ministere/Attestation-de-deplacement-derogatoire
+  - info:
+    text: informations officielles du Gouvernement
+    url: https://www.gouvernement.fr/info-coronavirus
