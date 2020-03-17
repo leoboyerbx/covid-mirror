@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/leoboyerbx/covid-mirror/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+> 17 mars 2020
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Depuis janvier 2020, une épidémie de Coronavirus COVID-19 (ex 2019-nCoV) s’est propagée depuis la Chine.
+Retrouvez toutes les réponses officielles aux questions que vous vous posez sur ce qu’est le Coronavirus COVID-19 et les recommandations pour votre santé sur la plateforme :
+[gouvernement.fr/info-coronavirus](https://www.gouvernement.fr/info-coronavirus)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Le 16 mars 2020, le Président de la République a décidé de prendre des mesures pour réduire les contacts et déplacements au strict minimum sur l’ensemble du territoire à compter du mardi 17 mars à 12h00, pour quinze jours minimum.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Des dérogations sur attestation seront possible dans le cadre de :
 
-- Bulleted
-- List
+-   déplacements entre le domicile et le lieu d’exercice de l’activité professionnelle,  
+    lorsqu’ils sont indispensables à l’exercice d’activités ne pouvant être organisées  
+    sous forme de télétravail (sur justificatif permanent) ou déplacements  
+    professionnels ne pouvant être différés ;
+-   déplacements pour effectuer des achats de première nécessité dans des  
+    établissements autorisés (liste sur gouvernement.fr) ;
+-   déplacements pour motif de santé ;
+-   déplacements pour motif familial impérieux, pour l’assistance aux personnes  
+    vulnérables ou la garde d’enfants ;
+-   déplacements brefs, à proximité du domicile, liés à l’activité physique individuelle  
+    des personnes, à l’exclusion de toute pratique sportive collective, et aux besoins  
+    des animaux de compagnie.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leoboyerbx/covid-mirror/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**L'attestation de déplacement dérogatoire** est téléchargeable ou peut être rédigée sur papier libre:
+[Télécharger au format PDF](https://github.com/leoboyerbx/covid-mirror/raw/master/Attestation_de_deplacement_derogatoire.pdf)
